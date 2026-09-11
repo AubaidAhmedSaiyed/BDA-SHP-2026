@@ -1,0 +1,5 @@
+Hello world
+hello haddoop
+world hadoop
+hello big analytics
+big data  analyticsSSS
