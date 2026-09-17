@@ -18,3 +18,4 @@ for line in sys.stdin:
 
 if current_year is not None:
     print(f"{current_year}\t{min_temp}")
+    
